@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id = "@+id/action_output2"
+        android:title="output2"
+        android:icon = "@drawable/ic_one"
+        app:showAsAction="always"/>
+    <item android:id = "@+id/action_output1"
+        android:title="output1"
+        android:icon = "@drawable/ic_two"
+        app:showAsAction="always"/>
+    <item android:id = "@+id/action_add"
+        android:title="add"
+        android:icon = "@drawable/ic_plus"
+        app:showAsAction="always"/>
+    <item android:id = "@+id/action_save"
+        android:title="save"
+        android:icon = "@drawable/ic_save"
+        app:showAsAction="always"/>
+
+</menu>
